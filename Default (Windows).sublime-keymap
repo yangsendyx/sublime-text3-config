@@ -1,3 +1,50 @@
 [
-	{ "keys": ["ctrl+alt+a"], "command": "reindent", "args": {"single_line": false} }
+	//全局缩进
+	{
+		"keys": ["ctrl+alt+a"],
+		"command": "reindent",
+		"args": {
+			"single_line": false
+		}
+	},
+	//360打开页面
+	{
+		"keys": ["f1"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"paths": [],
+			"application": "D:/应用程序/360se/360se6/Application/360se.exe",
+			"extensions":".html"
+		}
+	},
+	//chrome打开页面
+	{
+		"keys": ["f2"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"paths": [],
+			"application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+			"extensions":".html"
+		}
+	},
+	//firefox打开页面
+	{
+		"keys": ["f3"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"paths": [],
+			"application": "D:/应用程序/Mozilla Firefox/firefox.exe",
+			"extensions":".html"
+		}
+	},
+	//IE打开页面
+	{
+		"keys": ["f4"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"paths": [],
+			"application": "C:/Program Files/Internet Explorer/iexplore.exe",
+			"extensions":".html"
+		}
+	}
 ]
