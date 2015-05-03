@@ -7,11 +7,11 @@
 		"AdvancedNewFile",
 		"AngularJS",
 		"Emmet",
-		"JavaScript Completions",
 		"jQuery",
 		"LESS",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SyncedSideBar"
