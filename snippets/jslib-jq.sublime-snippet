@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<script src="cdnjscn.b0.upaiyun.com/libs/jquery/1.11.0-rc1/jquery.min.js"></script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jslib-jq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

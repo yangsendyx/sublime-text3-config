@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"Emmet",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SyncedSideBar"
+	]
+}

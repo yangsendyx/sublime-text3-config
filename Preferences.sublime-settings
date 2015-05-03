@@ -1,0 +1,13 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"word_wrap": true
+}
