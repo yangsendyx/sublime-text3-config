@@ -1,7 +1,9 @@
 {
+	//代码提示时，使用tab键选择
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 18,
+	//忽略插件
 	"ignored_packages":
 	[
 		"PHP",
@@ -9,5 +11,12 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"word_wrap": true
+	//自动折行
+	"word_wrap": true,
+	//光标行高亮
+	"highlight_line": true,
+	//底部缓冲区
+	"scroll_past_end": false,
+	//滚都速度
+	"scroll_speed": 0.5
 }
