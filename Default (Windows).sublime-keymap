@@ -1,7 +1,7 @@
 [
 	//全局缩进
 	{
-		"keys": ["ctrl+alt+a"],
+		"keys": ["ctrl+alt+z"],
 		"command": "reindent",
 		"args": {
 			"single_line": false
