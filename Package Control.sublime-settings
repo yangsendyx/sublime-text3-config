@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -10,7 +11,9 @@
 		"ExpressComplete",
 		"Handlebars",
 		"Jade",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
+		"JsFormat",
 		"LESS",
 		"Package Control",
 		"Sass",

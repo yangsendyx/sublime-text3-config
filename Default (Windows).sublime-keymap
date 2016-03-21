@@ -17,7 +17,7 @@
 			"extensions":".html"
 		}
 	},
-	//chrome打开页面
+	//Chrome打开页面
 	{
 		"keys": ["f2"],
 		"command": "side_bar_files_open_with",
@@ -27,7 +27,7 @@
 			"extensions":".html"
 		}
 	},
-	//firefox打开页面
+	//Firefox打开页面
 	{
 		"keys": ["f3"],
 		"command": "side_bar_files_open_with",
@@ -44,6 +44,16 @@
 		"args": {
 			"paths": [],
 			"application": "C:/Program Files/Internet Explorer/iexplore.exe",
+			"extensions":".html"
+		}
+	},
+	// QQ浏览器打开
+	{
+		"keys": ["f5"],
+		"command": "side_bar_files_open_with",
+		"args": {
+			"paths": [],
+			"application": "D:/应用程序/QQBrowser/QQBrowser.exe",
 			"extensions":".html"
 		}
 	}
