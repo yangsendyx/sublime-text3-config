@@ -10,5 +10,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"scroll_speed": 0.5,
-	"word_wrap": true
+	"word_wrap": true,
+	"scroll_past_end": true,
+	"open_files_in_new_window": false
 }
