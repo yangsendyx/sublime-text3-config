@@ -1,16 +1,17 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
 	"font_size": 16,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"PHP",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"scroll_speed": 0.5,
-	"word_wrap": true,
+	"open_files_in_new_window": false,
 	"scroll_past_end": true,
-	"open_files_in_new_window": false
+	"scroll_speed": 0.5,
+	"word_wrap": true
 }

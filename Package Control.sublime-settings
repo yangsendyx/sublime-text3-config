@@ -7,6 +7,10 @@
 	[
 		"AdvancedNewFile",
 		"AngularJS",
+		"Babel",
+		"Babel Snippets",
+		"Codecs33",
+		"ConvertToUTF8",
 		"Emmet",
 		"ExpressComplete",
 		"Handlebars",
@@ -21,7 +25,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar"
 	]
 }
