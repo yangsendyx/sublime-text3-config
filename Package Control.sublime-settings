@@ -10,15 +10,18 @@
 		"Babel",
 		"Babel Snippets",
 		"Codecs33",
+		"ColorPicker",
 		"ConvertToUTF8",
 		"Emmet",
 		"ExpressComplete",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JsFormat",
 		"LESS",
+		"Material Theme",
 		"Package Control",
 		"Sass",
 		"SASS Snippets",
@@ -26,6 +29,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SyncedSideBar"
+		"SyncedSideBar",
+		"Theme - Flatland"
 	]
 }

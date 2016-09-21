@@ -30,5 +30,6 @@
         "operand": true,
         "match_all": true
       }]
-    }
+    },
+    { "keys": ["super+shift+c"], "command": "color_pick" }
 ]

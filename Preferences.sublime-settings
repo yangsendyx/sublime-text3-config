@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_size": 16,
 	"ignored_packages":
 	[
@@ -10,8 +10,15 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_tabs_separator": true,
 	"open_files_in_new_window": false,
 	"scroll_past_end": true,
 	"scroll_speed": 0.5,
+	"theme": "Material-Theme.sublime-theme",
 	"word_wrap": true
 }
