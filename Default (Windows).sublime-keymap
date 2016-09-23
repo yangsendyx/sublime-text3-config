@@ -7,13 +7,13 @@
 			"single_line": false
 		}
 	},
-	//360打开页面
+	// QQ浏览器打开
 	{
 		"keys": ["f1"],
 		"command": "side_bar_files_open_with",
 		"args": {
 			"paths": [],
-			"application": "D:/应用程序/360se/360se6/Application/360se.exe",
+			"application": "D:/program/QQBrowser/QQBrowser.exe",
 			"extensions":".html"
 		}
 	},
@@ -33,7 +33,7 @@
 		"command": "side_bar_files_open_with",
 		"args": {
 			"paths": [],
-			"application": "D:/应用程序/Mozilla Firefox/firefox.exe",
+			"application": "D:/program/Mozilla Firefox/firefox.exe",
 			"extensions":".html"
 		}
 	},
@@ -44,16 +44,6 @@
 		"args": {
 			"paths": [],
 			"application": "C:/Program Files/Internet Explorer/iexplore.exe",
-			"extensions":".html"
-		}
-	},
-	// QQ浏览器打开
-	{
-		"keys": ["f5"],
-		"command": "side_bar_files_open_with",
-		"args": {
-			"paths": [],
-			"application": "D:/应用程序/QQBrowser/QQBrowser.exe",
 			"extensions":".html"
 		}
 	}
