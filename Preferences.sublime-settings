@@ -14,6 +14,7 @@
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_tabs_separator": true,
 	"open_files_in_new_window": false,

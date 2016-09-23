@@ -13,7 +13,7 @@
 		{
 			"eslint":
 			{
-				"@disable": true,
+				"@disable": false,
 				"args":
 				[
 				],
@@ -32,7 +32,7 @@
 				]
 			}
 		},
-		"mark_style": "outline",
+		"mark_style": "squiggly underline",
 		"no_column_highlights_line": false,
 		"passive_warnings": true,
 		"paths":
